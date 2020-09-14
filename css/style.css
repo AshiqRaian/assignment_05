@@ -1,0 +1,9 @@
+.chp{
+	height: 100px;
+	background: #0D6EFD;
+	padding: 20px;
+	color: #fff;
+}
+.col-sm-4, .col-sm-12, .col-sm-6, .col-sm-8, .col-sm-2{
+	padding: 4px 1px;
+}
